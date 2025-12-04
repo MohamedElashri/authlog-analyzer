@@ -20,7 +20,7 @@ AuthLog Analyzer is a Python script designed to parse and analyze authentication
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/authlog-analyzer.git
+git clone https://github.com/MohamedElashri/authlog-analyzer.git
 ```
 
 2. **Install Dependencies:**
